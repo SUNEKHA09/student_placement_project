@@ -2,6 +2,8 @@
 
 A Streamlit dashboard to analyze student academic performance, skills, internships, and placement outcomes.
 
+## 🌐 Live Demo
+Check out the live app here: [Student Placement Dashboard](https://student-placement-project-h51j.onrender.com/)
 ---
 
 ## ✨ Features
